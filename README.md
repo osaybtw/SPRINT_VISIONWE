@@ -60,8 +60,6 @@ Aplicar tarifas automaticamente;
 Exibir custos e estatísticas;
 Integrar hardware e software em um único protótipo funcional.
 
-<img width="1418" height="627" alt="image" src="https://github.com/user-attachments/assets/ab81a94f-1011-48cb-8d51-88f6e9358e29" />
-
 <img width="1365" height="641" alt="image" src="https://github.com/user-attachments/assets/9f489b52-b039-410d-93cf-a3594c406c57" />
 
 <img width="59" height="49" alt="image" src="https://github.com/user-attachments/assets/6ace206d-b7a4-44e5-9b8e-3ca72d4d006b" />
