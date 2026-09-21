@@ -26,17 +26,21 @@ Usuário -> Teclado 4x4 -> Arduino ->Cálculo de consumo e tarifas-> LCD 16x2
 Feedback:
 LED RGB + Buzzer
 Conceitos Aplicados
-Soluções em Energias Renováveis e Sustentáveis
-Eficiência energética.
-Mobilidade elétrica.
-Monitoramento de consumo.
-Tarifação inteligente.
+
+# Soluções em Energias Renováveis e Sustentáveis
+
+Eficiência energética;
+Mobilidade elétrica;
+Monitoramento de consumo;
+Tarifação inteligente;
 Possível integração futura com energia solar e Smart Grids.
-Pensamento Computacional e Automação
-Decomposição do problema em módulos.
-Estruturas de dados para sessões de recarga.
-Algoritmos para cálculos automáticos.
-Automação de processos e geração de informações em tempo real.
+
+# Pensamento Computacional e Automação
+
+Decomposição do problema em módulos;
+Estruturas de dados para sessões de recarga;
+Algoritmos para cálculos automáticos;
+Automação de processos e geração de informações em tempo real;
 Viabilidade Técnica
 
 A solução utiliza componentes de baixo custo e fácil implementação, como Arduino, LCD, teclado matricial, LED RGB e buzzer. O sistema é funcional, expansível e pode servir como base para aplicações reais de monitoramento energético.
