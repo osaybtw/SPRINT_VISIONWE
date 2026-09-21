@@ -11,6 +11,12 @@ Anna Cecília Guimarães M. Lima de Carvalho - RM: 570955
 
 Caio Marques - RM: 573847
 
+# SIMULAÇÃO
+
+Projeto desenvolvido e testado no Tinkercad:
+
+https://www.tinkercad.com/things/e3tXx0ispJa-sprint-3
+
 # ChargeGrid Intelligence
 # Problema
 
